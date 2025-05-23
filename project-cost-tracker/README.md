@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Project Cost Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Project Cost Tracker transforms chaotic budgets into clear, actionable insights — empowering teams to spend smarter and deliver stronger.**
 
-## Available Scripts
+## 🚀 Overview
+Project Cost Tracker is a sleek, user-friendly web app designed to help individuals and teams monitor, manage, and optimize their project expenses in real-time — turning budgeting headaches into streamlined success.
 
-In the project directory, you can run:
+## 🔥 Features
+- Intuitive dashboard for quick cost insights
+- Add, edit, and categorize expenses effortlessly
+- Visual charts to track spending trends
+- Export reports for accountability and transparency
+- Multi-user collaboration with role-based access (coming soon!)
 
-### `npm start`
+## 🎯 Why It Matters
+Accurate cost tracking prevents budget overruns, enables smarter decision-making, and boosts financial transparency — key ingredients for project success.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 Tech Stack
+- Frontend: React.js / Vue.js / Angular (choose your stack)
+- Backend: Node.js with Express / Django / Flask
+- Database: MongoDB / PostgreSQL
+- Authentication: JWT / OAuth 2.0
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🚀 Getting Started
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/kokkulatrilok03/PROJECT-COST-TRACKER.git
