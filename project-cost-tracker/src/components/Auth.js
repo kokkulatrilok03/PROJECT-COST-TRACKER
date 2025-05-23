@@ -100,7 +100,7 @@ const Auth = () => {
 
   return (
     <AuthContainer>
-      <Title>Vintage Vault Login</Title>
+      <Title> Project Cost Tracker</Title>
       <Input
         type="email"
         placeholder="Email"
